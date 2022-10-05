@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+<html class="client-nojs" dir="ltr" lang="pl">
+ <head>
+  <meta charset="utf-8"/>
+  <title>
+   Aneks:Przys≥owia polskie - A ñ Wikis≥ownik, wolny s≥ownik wielojÍzyczny
+  </title>
+  <script>
+   document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t.","†\t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","styczeÒ","luty","marzec","kwiecieÒ","maj","czerwiec","lipiec","sierpieÒ","wrzesieÒ","paüdziernik","listopad","grudzieÒ"],"wgRequestId":"ac21cdf5-1a1c-49f0-b81d-392ee474b5aa","wgCSPNonce":false,"wgCanonicalNamespace":"Aneks","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":100,"wgPageName":"Aneks:Przys≥owia_polskie_-_A","wgTitle":"Przys≥owia polskie - A","wgCurRevisionId":2006005,"wgRevisionId":2006005,"wgArticleId":218,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"pl","wgPageContentModel":"wikitext","wgRelevantPageName":"Aneks:Przys≥owia_polskie_-_A","wgRelevantArticleId":218,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],
+"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":2}}},"wgStableRevisionId":2006005,"wgVisualEditor":{"pageLanguageCode":"pl","pageLanguageDir":"ltr","pageVariantFallbacks":"pl"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":400,"wgNoticeProject":"wiktionary","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgULSCurrentAutonym":"polski","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true};RLSTATE={"ext.gadget.autonumber":"ready","ext.gadget.inflection-styles":"ready","ext.gadget.wikibugs-styles":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready",
+"oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","skins.vector.legacy.js","ext.flaggedRevs.advanced","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.fix-section-hash","ext.gadget.term-num","ext.gadget.section-links","ext.gadget.rtl-category-pages","ext.gadget.enhanced-search","ext.gadget.shorts","ext.gadget.collapsible","ext.gadget.hide-empty-fields","ext.gadget.keyboard-yiddish","ext.gadget.multiple-category-boxes","ext.gadget.term-preview","ext.gadget.wikibugs","ext.gadget.ReferenceTooltips","ext.gadget.tooltips",
+"ext.gadget.show-hidden-categories","ext.gadget.furigana","ext.gadget.translations-columns","ext.centralauth.centralautologin","ext.uls.compactlinks","ext.uls.interface"];
+  </script>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});
+  </script>
+  <link href="/w/load.php?lang=pl&amp;modules=ext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <script async="" src="/w/load.php?lang=pl&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector">
+  </script>
+  <meta content="" name="ResourceLoaderDynamicStyles"/>
+  <link href="/w/load.php?lang=pl&amp;modules=ext.gadget.autonumber%2Cinflection-styles%2Cwikibugs-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <link href="/w/load.php?lang=pl&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+  <meta content="MediaWiki 1.39.0-wmf.27" name="generator"/>
+  <meta content="origin" name="referrer"/>
+  <meta content="origin-when-crossorigin" name="referrer"/>
+  <meta content="origin-when-cross-origin" name="referrer"/>
+  <meta content="telephone=no" name="format-detection"/>
+  <meta content="width=1000" name="viewport"/>
+  <meta content="Aneks:Przys≥owia polskie - A ñ Wikis≥ownik, wolny s≥ownik wielojÍzyczny" property="og:title"/>
+  <meta content="website" property="og:type"/>
+  <link href="//pl.m.wiktionary.org/wiki/Aneks:Przys%C5%82owia_polskie_-_A" media="only screen and (max-width: 720px)" rel="alternate"/>
+  <link href="/w/index.php?title=Aneks:Przys%C5%82owia_polskie_-_A&amp;action=edit" rel="alternate" title="Edytuj" type="application/x-wiki"/>
+  <link href="/static/apple-touch/wiktionary.png" rel="apple-touch-icon"/>
+  <link href="/static/favicon/piece.ico" rel="icon"/>
+  <link href="/w/opensearch_desc.php" rel="search" title="Wikis≥ownik (pl)" type="application/opensearchdescription+xml"/>
+  <link href="//pl.wiktionary.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+  <link href="https://creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+  <link href="https://pl.wiktionary.org/wiki/Aneks:Przys%C5%82owia_polskie_-_A" rel="canonical"/>
+  <link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+  <link href="//login.wikimedia.org" rel="dns-prefetch"/>
+ </head>
+ <body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-100 ns-subject mw-editable page-Aneks_Przys≥owia_polskie_-_A rootpage-Aneks_Przys≥owia_polskie_-_A skin-vector action-view skin-vector-legacy">
+  <div class="noprint" id="mw-page-base">
+  </div>
+  <div class="noprint" id="mw-head-base">
+  </div>
+  <div class="mw-body" id="content" role="main">
+   <a id="top">
+   </a>
+   <div id="siteNotice">
+    <!-- CentralNotice -->
+   </div>
+   <div class="mw-indicators">
+   </div>
+   <h1 class="firstHeading mw-first-heading" id="firstHeading">
+    Aneks:Przys≥owia polskie - A
+   </h1>
+   <div class="vector-body" id="bodyContent">
+    <div class="noprint" id="siteSub">
+     Z Wikis≥ownika ñ wolnego s≥ownika wielojÍzycznego
+    </div>
+    <div id="contentSub">
+    </div>
+    <div id="contentSub2">
+    </div>
+    <div id="jump-to-nav">
+    </div>
+    <a class="mw-jump-link" href="#mw-head">
+     Przejdü do nawigacji
+    </a>
+    <a class="mw-jump-link" href="#searchInput">
+     Przejdü do wyszukiwania
+    </a>
+    <div class="mw-body-content mw-content-ltr" dir="ltr" id="mw-content-text" lang="pl">
+     <div class="mw-parser-output">
+      <table align="center" id="toc" style="margin:0 auto; width:100%">
+       <tbody>
+        <tr>
+         <td align="center" style="padding: 1px">
+          <b>
+           Polskie przys≥owia
+          </b>
+          na:
+          <p>
+           <a class="mw-selflink selflink">
+            A
+           </a>
+           •
+           <a href="/wiki/Aneks:Przys%C5%82owia_polskie_-_B" title="Aneks:Przys≥owia polskie - B">
+            B
+           </a>
+           <a href="/wiki/Aneks:Przys%C5%82owia_polskie_-_C" title="Aneks:Przys≥owia polskie - C">
+            C
+           </a>
+           <a href="/wiki/Aneks:Przys%C5%82owia_polskie_-_%C4%86" title="Aneks:Przys≥owia polskie - ∆">
+            ∆
+           </a>
+           <a href="/wiki/Aneks:Przys%C5%82owia_polskie_-_D" title="Aneks:Przys≥owia polskie - D">
+            D
+           </a>
+           <a href="/wiki/Aneks:Przys%C5%82owia_polskie_-_E" title="Aneks:Przys≥owia polskie - E">
+            E
+           </a>
+            
+           <a href="/wiki/Aneks:Przys%C5%82owia_polskie_-_F" title="Aneks:Przys≥owia polskie - F">
+            F
+           </a>
+           <a href="/wiki/Aneks:Przys%C5%82owia_polskie_-_G" title="Aneks:Przys≥owia polskie - G">
+            G
+           </a>
+           <a href="/wiki/Aneks:Przys%C5%82owia_polskie_-_H" title="Aneks:Przys≥owia polskie - H">
+            H
+           </a>
+           <a href="/wiki/Aneks:Przys%C5%82owia_polskie_-_I" title="Aneks:Przys≥owia polskie - I">
+            I
+           </a>
+           <a href="/wiki/Aneks:Przys%C5%82owia_polskie_-_J" title="Aneks:Przys≥owia polskie - J">
+            J
+           </a>
+           <a href="/wiki/Aneks:Przys%C5%82owia_polskie_-_K" title="Aneks:Przys≥owia polskie - K">
+            K
+           </a>
+           <a href="/wiki/Aneks:Przys%C5%82owia_polskie_-_L" title="Aneks:Przys≥owia polskie - L">
+            L
+           </a>
+           <a href="/wiki/Aneks:Przys%C5%82owia_polskie_-_%C5%81" title="Aneks:Przys≥owia polskie - £">
+            £
+           </a>
+           <a href="/wiki/Aneks:Przys%C5%82owia_polskie_-_M" title="Aneks:Przys≥owia polskie - M">
+            M
+           </a>
+           <a href="/wiki/Aneks:Przys%C5%82owia_polskie_-_N" title="Aneks:Przys≥owia polskie - N">
+            N
+           </a>
+           —
+           <a href="/wiki/Aneks:Przys%C5%82owia_polskie_-_O" title="Aneks:Przys≥owia polskie - O">
+            O
+           </a>
+           ”
+           <a href="/wiki/Aneks:Przys%C5%82owia_polskie_-_P" title="Aneks:Przys≥owia polskie - P">
+            P
+           </a>
+           <a href="/wiki/Aneks:Przys%C5%82owia_polskie_-_R" title="Aneks:Przys≥owia polskie - R">
+            R
+           </a>
+           <a href="/wiki/Aneks:Przys%C5%82owia_polskie_-_S" title="Aneks:Przys≥owia polskie - S">
+            S
+           </a>
+           <a href="/wiki/Aneks:Przys%C5%82owia_polskie_-_%C5%9A" title="Aneks:Przys≥owia polskie - å">
+            å
+           </a>
+           <a href="/wiki/Aneks:Przys%C5%82owia_polskie_-_T" title="Aneks:Przys≥owia polskie - T">
+            T
+           </a>
+           <a href="/wiki/Aneks:Przys%C5%82owia_polskie_-_U" title="Aneks:Przys≥owia polskie - U">
+            U
+           </a>
+           <a href="/wiki/Aneks:Przys%C5%82owia_polskie_-_W" title="Aneks:Przys≥owia polskie - W">
+            W
+           </a>
+           Y
+           <a href="/wiki/Aneks:Przys%C5%82owia_polskie_-_Z" title="Aneks:Przys≥owia polskie - Z">
+            Z
+           </a>
+           <a href="/wiki/Aneks:Przys%C5%82owia_polskie_-_%C5%B9" title="Aneks:Przys≥owia polskie - è">
+            è
+           </a>
+           <a href="/wiki/Aneks:Przys%C5%82owia_polskie_-_%C5%BB" title="Aneks:Przys≥owia polskie - Ø">
+            Ø
+           </a>
+           ~
+           <a href="/wiki/Aneks:Przys%C5%82owia_polskie_-_indeks_tematyczny" title="Aneks:Przys≥owia polskie - indeks tematyczny">
+            wg tematu
+           </a>
+          </p>
+         </td>
+        </tr>
+       </tbody>
+      </table>
+      <p>
+       <span id="linkLanguage" title="polski">
+       </span>
+      </p>
+      <ul>
+       <li>
+        <a class="new" href="/w/index.php?title=a_koci_ogon,_nie_papierosa&amp;action=edit&amp;redlink=1" title="a koci ogon, nie papierosa (strona nie istnieje)">
+         a koci ogon, nie papierosa
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/Adam_i_Ewa_pokazuj%C4%85,_jaki_stycze%C5%84_i_luty_po_nich_nast%C4%99puj%C4%85" title="Adam i Ewa pokazujπ, jaki styczeÒ i luty po nich nastÍpujπ">
+         Adam i Ewa pokazujπ, jaki styczeÒ i luty po nich nastÍpujπ
+        </a>
+       </li>
+       <li>
+        <a class="new" href="/w/index.php?title=afekty,_chocia%C5%BC_b%C4%99d%C4%85_%C5%9Bwi%C4%99te,_rozumem_maj%C4%85_by%C4%87_uj%C4%99te&amp;action=edit&amp;redlink=1" title="afekty, chociaø bÍdπ úwiÍte, rozumem majπ byÊ ujÍte (strona nie istnieje)">
+         afekty, chociaø bÍdπ úwiÍte, rozumem majπ byÊ ujÍte
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/albo_rybka,_albo_pipka" title="albo rybka, albo pipka">
+         albo rybka, albo pipka
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/albo_rybki,_albo_akwarium" title="albo rybki, albo akwarium">
+         albo rybki, albo akwarium
+        </a>
+       </li>
+       <li>
+        <a class="mw-redirect" href="/wiki/ani_mnie_to_zi%C4%99bi,_ani_grzeje" title="ani mnie to ziÍbi, ani grzeje">
+         ani mnie to ziÍbi, ani grzeje
+        </a>
+       </li>
+       <li>
+        <a class="new" href="/w/index.php?title=ani_sto%C5%82ka_ani_ko%C5%82ka&amp;action=edit&amp;redlink=1" title="ani sto≥ka ani ko≥ka (strona nie istnieje)">
+         ani sto≥ka ani ko≥ka
+        </a>
+       </li>
+       <li>
+        <a class="new" href="/w/index.php?title=ani_w_Boga_wierzy,_ani_si%C4%99_diab%C5%82a_boi&amp;action=edit&amp;redlink=1" title="ani w Boga wierzy, ani siÍ diab≥a boi (strona nie istnieje)">
+         ani w Boga wierzy, ani siÍ diab≥a boi
+        </a>
+       </li>
+       <li>
+        <a href="/wiki/apetyt_ro%C5%9Bnie_w_miar%C4%99_jedzenia" title="apetyt roúnie w miarÍ jedzenia">
+         apetyt roúnie w miarÍ jedzenia
+        </a>
+       </li>
+      </ul>
+      <p>
+       <br/>
+       <b>
+        Zobacz teø:
+       </b>
+       <a href="/wiki/Aneks:Przys%C5%82owia" title="Aneks:Przys≥owia">
+        Indeks przys≥Ûw we wszystkich jÍzykach
+       </a>
+      </p>
+     </div>
+     <noscript>
+      <img alt="" height="1" src="//pl.wiktionary.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/>
+     </noscript>
+     <div class="printfooter" data-nosnippet="">
+      èrÛd≥o: Ñ
+      <a dir="ltr" href="https://pl.wiktionary.org/w/index.php?title=Aneks:Przys≥owia_polskie_-_A&amp;oldid=2006005">
+       https://pl.wiktionary.org/w/index.php?title=Aneks:Przys≥owia_polskie_-_A&amp;oldid=2006005
+      </a>
+      î
+     </div>
+    </div>
+    <div class="catlinks catlinks-allhidden" data-mw="interface" id="catlinks">
+    </div>
+   </div>
+  </div>
+  <div id="mw-navigation">
+   <h2>
+    Menu nawigacyjne
+   </h2>
+   <div id="mw-head">
+    <nav aria-labelledby="p-personal-label" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" id="p-personal" role="navigation">
+     <h3 class="vector-menu-heading" id="p-personal-label">
+      <span class="vector-menu-heading-label">
+       NarzÍdzia osobiste
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="pt-anonuserpage">
+        <span title="Strona uøytkownika dla adresu IP, spod ktÛrego edytujesz">
+         Nie jesteú zalogowany
+        </span>
+       </li>
+       <li class="mw-list-item" id="pt-anontalk">
+        <a accesskey="n" href="/wiki/Specjalna:Moja_dyskusja" title="Dyskusja uøytkownika dla tego adresu IP [n]">
+         <span>
+          Dyskusja
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-anoncontribs">
+        <a accesskey="y" href="/wiki/Specjalna:M%C3%B3j_wk%C5%82ad" title="Lista edycji wykonanych z tego adresu IP [y]">
+         <span>
+          Edycje
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-createaccount">
+        <a href="/w/index.php?title=Specjalna:Utw%C3%B3rz_konto&amp;returnto=Aneks%3APrzys%C5%82owia+polskie+-+A" title="ZachÍcamy do stworzenia konta i zalogowania, ale nie jest to obowiπzkowe.">
+         <span>
+          UtwÛrz konto
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="pt-login">
+        <a accesskey="o" href="/w/index.php?title=Specjalna:Zaloguj&amp;returnto=Aneks%3APrzys%C5%82owia+polskie+-+A" title="ZachÍcamy do zalogowania siÍ, choÊ nie jest to obowiπzkowe. [o]">
+         <span>
+          Zaloguj siÍ
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <div id="left-navigation">
+     <nav aria-labelledby="p-namespaces-label" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" id="p-namespaces" role="navigation">
+      <h3 class="vector-menu-heading" id="p-namespaces-label">
+       <span class="vector-menu-heading-label">
+        Przestrzenie nazw
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-nstab-aneks">
+         <a href="/wiki/Aneks:Przys%C5%82owia_polskie_-_A">
+          <span>
+           Aneks
+          </span>
+         </a>
+        </li>
+        <li class="new mw-list-item" id="ca-talk">
+         <a accesskey="t" href="/w/index.php?title=Dyskusja_aneksu:Przys%C5%82owia_polskie_-_A&amp;action=edit&amp;redlink=1" rel="discussion" title="Dyskusja o zawartoúci tej strony (strona nie istnieje) [t]">
+          <span>
+           Dyskusja
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-variants-label" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" id="p-variants" role="navigation">
+      <input aria-haspopup="true" aria-labelledby="p-variants-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-variants" id="p-variants-checkbox" role="button" type="checkbox"/>
+      <label aria-label="ZmieÒ wariant jÍzyka" class="vector-menu-heading" id="p-variants-label">
+       <span class="vector-menu-heading-label">
+        polski
+       </span>
+      </label>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+    </div>
+    <div id="right-navigation">
+     <nav aria-labelledby="p-views-label" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" id="p-views" role="navigation">
+      <h3 class="vector-menu-heading" id="p-views-label">
+       <span class="vector-menu-heading-label">
+        Widok
+       </span>
+      </h3>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+        <li class="selected mw-list-item" id="ca-view">
+         <a href="/wiki/Aneks:Przys%C5%82owia_polskie_-_A">
+          <span>
+           Czytaj
+          </span>
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-edit">
+         <a accesskey="e" href="/w/index.php?title=Aneks:Przys%C5%82owia_polskie_-_A&amp;action=edit" title="Edytuj tÍ†stronÍ [e]">
+          <span>
+           Edytuj
+          </span>
+         </a>
+        </li>
+        <li class="mw-list-item" id="ca-history">
+         <a accesskey="h" href="/w/index.php?title=Aneks:Przys%C5%82owia_polskie_-_A&amp;action=history" title="Starsze wersje tej strony. [h]">
+          <span>
+           Wyúwietl historiÍ
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </nav>
+     <nav aria-labelledby="p-cactions-label" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu-dropdown" id="p-cactions" role="navigation" title="WiÍcej opcji">
+      <input aria-haspopup="true" aria-labelledby="p-cactions-label" class="vector-menu-checkbox" data-event-name="ui.dropdown-p-cactions" id="p-cactions-checkbox" role="button" type="checkbox"/>
+      <label class="vector-menu-heading" id="p-cactions-label">
+       <span class="vector-menu-heading-label">
+        WiÍcej
+       </span>
+      </label>
+      <div class="vector-menu-content">
+       <ul class="vector-menu-content-list">
+       </ul>
+      </div>
+     </nav>
+     <div class="vector-search-box-vue vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box" id="p-search" role="search">
+      <div>
+       <h3>
+        <label for="searchInput">
+         Szukaj
+        </label>
+       </h3>
+       <form action="/w/index.php" class="vector-search-box-form" id="searchform">
+        <div class="vector-search-box-inner" data-search-loc="header-navigation" id="simpleSearch">
+         <input accesskey="f" aria-label="Przeszukaj Wikis≥ownik" autocapitalize="none" class="vector-search-box-input" id="searchInput" name="search" placeholder="Przeszukaj Wikis≥ownik" title="Przeszukaj Wikis≥ownik [f]" type="search"/>
+         <input name="title" type="hidden" value="Specjalna:Szukaj"/>
+         <input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Szukaj wprowadzonego tekstu w treúci stron" type="submit" value="Szukaj"/>
+         <input class="searchButton" id="searchButton" name="go" title="Przejdü do strony o dok≥adnie takim tytule, o ile istnieje" type="submit" value="Przejdü"/>
+        </div>
+       </form>
+      </div>
+     </div>
+    </div>
+   </div>
+   <div id="mw-panel">
+    <div id="p-logo" role="banner">
+     <a class="mw-wiki-logo" href="/wiki/Wikis%C5%82ownik:Strona_g%C5%82%C3%B3wna" title="Strona g≥Ûwna">
+     </a>
+    </div>
+    <nav aria-labelledby="p-navigation-label" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" id="p-navigation" role="navigation">
+     <h3 class="vector-menu-heading" id="p-navigation-label">
+      <span class="vector-menu-heading-label">
+       Nawigacja
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-mainpage-description">
+        <a accesskey="z" href="/wiki/Wikis%C5%82ownik:Strona_g%C5%82%C3%B3wna" title="Przejdü na stronÍ g≥Ûwnπ [z]">
+         <span>
+          Strona g≥Ûwna
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Specjalna:Allpages">
+        <a href="/wiki/Specjalna:Wszystkie_strony">
+         <span>
+          Indeks alfabetyczny
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Spis-jÍzykÛw">
+        <a href="/wiki/Kategoria:J%C4%99zyki">
+         <span>
+          Spis jÍzykÛw
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-S≥owniki-tematyczne">
+        <a href="/wiki/Kategoria:S%C5%82owniki_tematyczne">
+         <span>
+          S≥owniki tematyczne
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Gramatyki">
+        <a href="/wiki/Kategoria:Gramatyki">
+         <span>
+          Gramatyki
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-randompage">
+        <a accesskey="x" href="/wiki/Specjalna:Losowa_strona" title="Za≥aduj losowπ stronÍ [x]">
+         <span>
+          Losowa strona
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-Losuj-jÍzyk">
+        <a href="/wiki/Specjalna:Losowa_w_kategorii/J%C4%99zyki">
+         <span>
+          Losuj jÍzyk
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-redaction-label" class="vector-menu mw-portlet mw-portlet-redaction vector-menu-portal portal" id="p-redaction" role="navigation">
+     <h3 class="vector-menu-heading" id="p-redaction-label">
+      <span class="vector-menu-heading-label">
+       WspÛ≥praca
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="n-recentchanges">
+        <a accesskey="r" href="/wiki/Specjalna:Ostatnie_zmiany" title="Lista ostatnich zmian w Wikis≥owniku. [r]">
+         <span>
+          Ostatnie zmiany
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-help">
+        <a href="/wiki/Wikis%C5%82ownik:Pomoc" title="Tutaj moøesz dowiedzieÊ siÍ wielu rzeczy.">
+         <span>
+          Pomoc
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-bug_in_article">
+        <a href="//pl.wiktionary.org/w/index.php?title=Wikis%C5%82ownik:Zg%C5%82o%C5%9B_b%C5%82%C4%85d_w_ha%C5%9Ble&amp;action=edit&amp;section=new">
+         <span>
+          Zg≥oú b≥πd w haúle
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="n-contactpage">
+        <a href="/wiki/Wikis%C5%82ownik:Kontakt">
+         <span>
+          Kontakt
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-tb-label" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" id="p-tb" role="navigation">
+     <h3 class="vector-menu-heading" id="p-tb-label">
+      <span class="vector-menu-heading-label">
+       NarzÍdzia
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="t-whatlinkshere">
+        <a accesskey="j" href="/wiki/Specjalna:Linkuj%C4%85ce/Aneks:Przys%C5%82owia_polskie_-_A" title="Pokaø listÍ wszystkich stron linkujπcych do tej strony [j]">
+         <span>
+          Linkujπce
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-recentchangeslinked">
+        <a accesskey="k" href="/wiki/Specjalna:Zmiany_w_linkowanych/Aneks:Przys%C5%82owia_polskie_-_A" rel="nofollow" title="Ostatnie zmiany w stronach, do ktÛrych ta strona linkuje [k]">
+         <span>
+          Zmiany w linkowanych
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-specialpages">
+        <a accesskey="q" href="/wiki/Specjalna:Strony_specjalne" title="Lista wszystkich stron specjalnych [q]">
+         <span>
+          Strony specjalne
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-permalink">
+        <a href="/w/index.php?title=Aneks:Przys%C5%82owia_polskie_-_A&amp;oldid=2006005" title="Sta≥y link do tej wersji tej strony">
+         <span>
+          Link do tej wersji
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-info">
+        <a href="/w/index.php?title=Aneks:Przys%C5%82owia_polskie_-_A&amp;action=info" title="WiÍcej informacji na temat tej strony">
+         <span>
+          Informacje o tej stronie
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-coll-print_export-label" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" id="p-coll-print_export" role="navigation">
+     <h3 class="vector-menu-heading" id="p-coll-print_export-label">
+      <span class="vector-menu-heading-label">
+       Drukuj lub eksportuj
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+       <li class="mw-list-item" id="coll-create_a_book">
+        <a href="/w/index.php?title=Specjalna:Ksi%C4%85%C5%BCka&amp;bookcmd=book_creator&amp;referer=Aneks%3APrzys%C5%82owia+polskie+-+A">
+         <span>
+          UtwÛrz ksiπøkÍ
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="coll-download-as-rl">
+        <a href="/w/index.php?title=Specjalna:DownloadAsPdf&amp;page=Aneks%3APrzys%C5%82owia_polskie_-_A&amp;action=show-download-screen">
+         <span>
+          Pobierz jako PDF
+         </span>
+        </a>
+       </li>
+       <li class="mw-list-item" id="t-print">
+        <a accesskey="p" href="/w/index.php?title=Aneks:Przys%C5%82owia_polskie_-_A&amp;printable=yes" title="Wersja do wydruku [p]">
+         <span>
+          Wersja do druku
+         </span>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </nav>
+    <nav aria-labelledby="p-lang-label" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" id="p-lang" role="navigation">
+     <h3 class="vector-menu-heading" id="p-lang-label">
+      <span class="vector-menu-heading-label">
+       W innych jÍzykach
+      </span>
+     </h3>
+     <div class="vector-menu-content">
+      <ul class="vector-menu-content-list">
+      </ul>
+      <div class="after-portlet after-portlet-lang">
+       <span class="uls-after-portlet-link">
+       </span>
+       <span class="wb-langlinks-add wb-langlinks-link">
+        <a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:NewItem?site=plwiktionary&amp;page=Aneks%3APrzys%C5%82owia+polskie+-+A" title="Dodaj linki wersji jÍzykowych">
+         Dodaj linki
+        </a>
+       </span>
+      </div>
+     </div>
+    </nav>
+   </div>
+  </div>
+  <footer class="mw-footer" id="footer" role="contentinfo">
+   <ul id="footer-info">
+    <li id="footer-info-lastmod">
+     TÍ stronÍ ostatnio zmodyfikowano o 10:13, 28 lut 2011.
+     <img alt="Statystyki oglπdalnoúci" data-file-height="16" data-file-width="16" decoding="async" height="16" src="//upload.wikimedia.org/wikipedia/commons/d/d1/Chart_bar.png" title="Statystyki oglπdalnoúci" width="16"/>
+     <a class="external text" href="//pageviews.toolforge.org?project=pl.wiktionary.org&amp;range=latest-30&amp;pages=Aneks:Przys%C5%82owia_polskie_-_A">
+      Statystyki oglπdalnoúci strony
+     </a>
+    </li>
+    <li id="footer-info-copyright">
+     Tekst udostÍpniany na
+     <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.pl">
+      licencji Creative Commons: uznanie autorstwa, na tych samych warunkach
+     </a>
+     , z moøliwoúciπ obowiπzywania dodatkowych ograniczeÒ.
+Zobacz szczegÛ≥owe informacje o
+     <a href="https://foundation.wikimedia.org/wiki/Warunki_korzystania">
+      warunkach korzystania
+     </a>
+     .
+    </li>
+   </ul>
+   <ul id="footer-places">
+    <li id="footer-places-privacy">
+     <a href="https://foundation.wikimedia.org/wiki/Privacy_policy">
+      Polityka prywatnoúci
+     </a>
+    </li>
+    <li id="footer-places-about">
+     <a href="/wiki/Wikis%C5%82ownik:O_Wikis%C5%82owniku">
+      O Wikis≥owniku
+     </a>
+    </li>
+    <li id="footer-places-disclaimer">
+     <a href="/wiki/Wikis%C5%82ownik:Zrzeczenie_si%C4%99_odpowiedzialno%C5%9Bci">
+      Informacje prawne
+     </a>
+    </li>
+    <li id="footer-places-mobileview">
+     <a class="noprint stopMobileRedirectToggle" href="//pl.m.wiktionary.org/w/index.php?title=Aneks:Przys%C5%82owia_polskie_-_A&amp;mobileaction=toggle_view_mobile">
+      Wersja mobilna
+     </a>
+    </li>
+    <li id="footer-places-developers">
+     <a href="https://developer.wikimedia.org">
+      Dla deweloperÛw
+     </a>
+    </li>
+    <li id="footer-places-statslink">
+     <a href="https://stats.wikimedia.org/#/pl.wiktionary.org">
+      Statystyki
+     </a>
+    </li>
+    <li id="footer-places-cookiestatement">
+     <a href="https://foundation.wikimedia.org/wiki/Cookie_statement">
+      Komunikat na temat ciasteczek
+     </a>
+    </li>
+   </ul>
+   <ul class="noprint" id="footer-icons">
+    <li id="footer-copyrightico">
+     <a href="https://wikimediafoundation.org/">
+      <img alt="Wikimedia Foundation" height="31" loading="lazy" src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88"/>
+     </a>
+    </li>
+    <li id="footer-poweredbyico">
+     <a href="https://www.mediawiki.org/">
+      <img alt="Powered by MediaWiki" height="31" loading="lazy" src="/static/images/footer/poweredby_mediawiki_88x31.png" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88"/>
+     </a>
+    </li>
+   </ul>
+  </footer>
+  <script>
+   (RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.035","walltime":"0.045","ppvisitednodes":{"value":18,"limit":1000000},"postexpandincludesize":{"value":1420,"limit":2097152},"templateargumentsize":{"value":6,"limit":2097152},"expansiondepth":{"value":6,"limit":100},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":0,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   16.282      1 -total"," 51.09%    8.318      1 Szablon:Przys≥owiaPL"," 47.78%    7.779      1 Szablon:Przys≥owiaINDEKS"," 16.03%    2.610      1 Szablon:jÍzyk_linkÛw"]},"cachereport":{"origin":"mw1368","timestamp":"20220812112123","ttl":1814400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":89,"wgHostname":"mw1389"});});
+  </script>
+ </body>
+</html>
